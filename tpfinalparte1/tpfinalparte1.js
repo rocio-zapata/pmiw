@@ -1,3 +1,6 @@
+// salvatierra braian y zapata rocio
+// cuento "casa tomada"
+
 let imagenes = []; 
 let textos = []; 
 let estado = 0; // controlar las imagenes 
